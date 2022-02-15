@@ -1,0 +1,74 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/project1.jpg",
+            "title": "Property Price Prediction Tool",
+            "bodyText": "- Developed an interactive interface using Jupyter to predict the selling price with an **RMSE = 0.71**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SamineniChandraVadan/New_york_property_price"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/project2.jpg",
+            "title": "Job recommender system for Craigslist",
+            "bodyText": "- Analyzed resume and job descriptions using BERT and k- means to attain an accuracy of **76%**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SamineniChandraVadan/Job_Recommender_system_for_CraigsList"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/project3.jpg",
+            "title": "Phishing mail classifier",
+            "bodyText": "- Used NLP techniques to vectorize the body of the mail and developed a DNN model to classify a phishing mail with an accuracy of **95.9%**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SamineniChandraVadan"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image": "images/projects/project4.jpg",
+            "title": "Credit default Prediction",
+            "bodyText": "- Developed a classification model to predict the default probability of the customers based on their historical behavior and obtained an **AUC ≈ 0.75**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SamineniChandraVadan"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        },
+        {
+            "image": "images/projects/project5.jpg",
+            "title": "Resource usage forecasting and Cost optimization",
+            "bodyText": "- Forecasted the water usage of the company in forthcoming 4 weeks and determined best water sourcing strategy to reduce the total water cost to the company there by saving **$60k** per annum",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/SamineniChandraVadan"
+                }
+            ],
+            "tags" : [
+                "Python"
+            ]
+        }
+    ]
+}

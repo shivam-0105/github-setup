@@ -1,0 +1,37 @@
+{
+    "education":[
+        {
+            "media": {
+                "name": "Purdue University",
+                "source": {
+                    "url": "images/education/purdue.png"
+                },
+                "type": "IMAGE"
+            }
+        },
+        {
+            "title": "June 2022",
+            "cardSubtitle": "Masters of Science in Business Analytics and Information Management",
+            "cardDetailedText": "GPA - 3.8%"
+        },
+        {
+            "media": {
+                "name": "IIT Madras",
+                "source": {
+                    "url": "images/education/madras.png"
+                },
+                "type": "IMAGE"
+            }
+        },
+        {
+            "title": "July 2018",
+            "cardSubtitle": "B.Tech in Mechanical Engineering",
+            "cardDetailedText": "CGPA - 9.5"
+        },
+        {
+            "title": "July 2018",
+            "cardSubtitle": "Masters in Thermal Engineering",
+            "cardDetailedText": "CGPA - 9.5"
+        }
+    ]
+}

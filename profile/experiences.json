@@ -1,0 +1,33 @@
+{
+    "experiences": [
+        {
+            "title": "Data Scientist",
+            "subtitle": "Travel Leisure",
+            "workType": "Full-Time",
+            "workDescription": [
+                "**Personalized Vacation recommender** | Predicted the customers propensity to travel and developed a personalized recommendation engine by segmenting the customers based on their attributes, travel, and search history through the platform which could potentially improve customer satisfaction by **3x** times."
+            ],
+            "dateText": "Jan 2022 - June 2022"
+        },
+        {
+            "title": "Data Scientist",
+            "subtitle": "Quantium Analytics Pvt Ltd",
+            "workType": "Full-Time",
+            "workDescription": [
+                "**Churn Modelling** | Devised a retention strategy by predicting high risk customers. Packaged a system that's **5 times** better at detecting risky customers in comparison to client's existing one",
+                "**House sale price prediction** | Improved client's leading predictive model for house sale price prediction by incorporating the market and vicinity features. The additional features reduced the already deteriorating model's MAPE by **3%** and put client's product back in the lead",
+                "**Business Intelligence tools** | Built automated business intelligence tools for FMCG clients to extract insights of their monthly business performance by integrating huge datasets and saving **25** FTEs to the client"
+            ],
+            "dateText": "Aug 2018 - Nov 2019"
+        },
+        {
+            "title": "Managing Director",
+            "subtitle": "Samineni Ventures LLp",
+            "workType": "Full-Time",
+            "workDescription": [
+                "**Co-founded** a real estate firm and successfully executed an infrastructure development project of worth **$1.3 million** by developing cross functional teams for marketing, strategic pricing and sales and thereby improving the estimated profits by **20%**"
+            ],
+            "dateText": "Aug 2020 - June 2021"
+        }
+    ]
+}

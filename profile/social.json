@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/scv18"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/SamineniChandraVadan"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:scvchandras@gmail.com"
+        }
+    ]
+}
